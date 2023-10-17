@@ -35,3 +35,7 @@ Model: https://huggingface.co/rjvishwa/Llama-2-7b-Med-Model/tree/main
 | Pubmed Causal               | [original](https://aclanthology.org/2020.coling-main.427/    ), [preprocessed](https://huggingface.co/datasets/medalpaca/medical_meadow_pubmed_causal) |  2446    |  2446 |
 | ChatDoctor               | [original](https://github.com/Kent0n-Li/ChatDoctor  ) |  215000    |  10000 |
 | OpenAssistant | [original](https://huggingface.co/OpenAssistant) |  9209   | 9209     |
+
+The Llama Med Model represents an advanced suite of large language models meticulously fine-tuned for the specific purpose of medical question-answering and dialogue applications. Our primary goal is to provide a comprehensive selection of open-source language models, thereby facilitating the streamlined development of medical chatbot solutions.
+
+The Meta Llama2 model, boasting an impressive 7 billion parameters, has been fine-tuned on a meticulously curated medical dataset. This training process was conducted on a robust infrastructure comprising two GPU nodes, each equipped with 15 GB of VRAM. Remarkably, this intricate training endeavor was successfully completed in a mere 8 hours.
