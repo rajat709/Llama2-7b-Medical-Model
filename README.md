@@ -13,7 +13,7 @@ App URL: https://rjvishwa-rajat-llama-2-7b-med-model.hf.space/
 
 Model: https://huggingface.co/rjvishwa/Llama-2-7b-Med-Model/tree/main
 
-### Data Overview
+### Dataset Overview
 
 | Name                 |  Source                                                                 |  n       |  n included in training |
 |----------------------|-------------------------------------------------------------------------|----------|-------------------------|
