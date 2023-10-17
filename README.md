@@ -1,12 +1,9 @@
 ---
 title: Llama 2 7b Med Model
 emoji: ⚕️
-colorFrom: purple
-colorTo: indigo
 sdk: gradio
 sdk_version: 3.48.0
 app_file: app.py
-pinned: false
 ---
 
 App URL: https://rjvishwa-rajat-llama-2-7b-med-model.hf.space/
